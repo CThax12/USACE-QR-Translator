@@ -12,14 +12,12 @@
     height: 80px;
     width: 130px;
     float: left;
+    padding-right: 40px;
 }
 
 
-.navbar h1 {
-    text-align: center;
-    display: inline;
+.navbar h1 {    
     float: left;
-
 }
 .navbar a {
     float: right;
