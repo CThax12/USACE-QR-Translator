@@ -173,7 +173,7 @@ select::-ms-expand {
 .select {
     position: relative;
     display: flex;
-    width: 30em;
+    width: 20em;
     height: 3em;
     line-height: 3;
     background: #5c6664;
