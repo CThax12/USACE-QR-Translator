@@ -133,4 +133,11 @@ h1 {
 }
 
 
-/*css for dropdown*/
+/*css for translation*/
+
+body {
+    background-color: #f2f2f2;
+    background-image: url(German\ Page.png);
+    background-repeat: no-repeat;
+    object-fit: scale-down;
+}
