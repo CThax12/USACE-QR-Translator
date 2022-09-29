@@ -1,3 +1,8 @@
+import googletrans
 from googletrans import Translator
 translator = Translator()
-translator.translate('안녕하세요.')
+text = "Please wear your life jacket at all times."
+
+result = translator.translate(text, dest="es")
+
+print(result.text)
