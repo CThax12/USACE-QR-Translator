@@ -34,15 +34,16 @@
 
     <h1>Choose your language</h1>
     <div class="select">
-        <select name="format" id="format">
+        <select name="format" id="format" onchange="handleSelect(this)">
         <option selected disabled>Select language</option>
         <option value="Spanish">Spanish</option>
         <option value="French">French</option>
-        <option value="German">German</option>
+        <option value="">German</option>
         <option value="Italian">Italian</option>
         <option value="Icelandic">Icelandic</option>
       </select>
     </div>
 </body>
+<script src="main.js"></script>
 
 </html>
