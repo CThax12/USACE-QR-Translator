@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>USACE</title>
@@ -25,25 +25,16 @@
             <li><a href="https://www.usace.army.mil/Contact/">Contact</a></li>
         </ul>
     </nav>
-    <br /><br />
-    <br /><br />
-    <br /><br />
-    <br /><br />
-    <br /><br />
-    <br /><br />
-
-    <h1>Choose your language</h1>
-    <div class="select">
-        <select name="format" id="format" onchange="handleSelect(this)">
-        <option selected disabled>Select language</option>
-        <option value="Spanish">Spanish</option>
-        <option value="French">French</option>
-        <option value="">German</option>
-        <option value="Italian">Italian</option>
-        <option value="Icelandic">Icelandic</option>
-      </select>
+    <h2>Choose your language</h2>
+    <div class="container">
+      <input type = "text" id ="language-input" class = "autocomplete-input"
+      placeholder="Select here">
+      <ul class="autocomplete-list" id="language-list"></ul>
+      <li></li>
     </div>
+
 </body>
+
 <script src="main.js"></script>
 
 </html>

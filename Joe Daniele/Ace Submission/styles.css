@@ -132,14 +132,3 @@ h1 {
     text-align: center;
 }
 
-
-/*css for translation*/
-
-body {
-    background-color: #f2f2f2;
-    background-image: url(German\ Page.png);
-    background-repeat: no-repeat;
-    object-fit: scale-down;
-    background-image: url(tahlequah.jpg);s
-    background-position: 0%;
-}
