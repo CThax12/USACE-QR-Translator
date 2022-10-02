@@ -6,7 +6,7 @@ options = wrapper.querySelector(".options");
 let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian", "Azerbaijani", "Bangla",
                  "Basque", "Belarusian", "Bosnian", "Bulgarian", "Burmese", "Catalan", "Cebuano", "Chinese",
                  "Corsican", "Croatian", "Czech", "Danish", "Dutch", "English", "Esperanto", "Estonian",
-                 "Filipino", "Finnish", "French", "Gallician", "Georgian", "Greek", "Gujarati", "Haitian Creole",
+                 "Filipino", "Finnish", "French", "Gallician", "Georgian","German", "Greek", "Gujarati", "Haitian Creole",
                  "Hausa", "Hawaiian", "Hebrew", "Hindi", "Hmong", "Hungarian", "Icelandic", "Igbo",
                  "Indonesian", "Irish", "Italian", "Japanese", "Javanese", "Kannada", "Kazakh", "Khmer", "Kinyarwanda", 
                  "Korean", "Kyrgyz", "Lao", "Latin", "Lithuanian", "Luxembourgish",
