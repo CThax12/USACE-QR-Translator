@@ -29,10 +29,29 @@ function addCountry(selectedCountry) {
 addCountry();
 
 function updateName(selectedLi) {
+
+    var translations = {
+        "English": "you chose english.",
+        "Spanish": "You chose spanish.",
+        "Arabic" : "You chose Arabic."
+      };
+
+
+
     searchInp.value = "";
     addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
+    var id = selectBtn.firstElementChild.innerText
+
+    
+
+    console.log(id);
+
+    if (id in dict) {
+        console.log(dict[id]);
+    }
+
 }
 
 searchInp.addEventListener("keyup", () => {
@@ -48,6 +67,3 @@ searchInp.addEventListener("keyup", () => {
 });
 
 selectBtn.addEventListener("click", () => wrapper.classList.toggle("active"));
-let id = document.querySelector("#selection > div > div.select-btn > span").value;
-
-console.log(id);
