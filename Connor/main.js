@@ -30,7 +30,7 @@ addCountry();
 
 function updateName(selectedLi) {
 
-    var dict = {
+    var translations = {
         "English": "you chose english.",
         "Spanish": "You chose spanish.",
         "Arabic" : "You chose Arabic."
