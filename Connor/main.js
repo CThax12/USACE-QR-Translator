@@ -33,6 +33,7 @@ function updateName(selectedLi) {
     addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
+    console.log(selectBtn.firstElementChild.innerText);
 }
 
 searchInp.addEventListener("keyup", () => {
@@ -48,6 +49,3 @@ searchInp.addEventListener("keyup", () => {
 });
 
 selectBtn.addEventListener("click", () => wrapper.classList.toggle("active"));
-let id = document.querySelector("#selection > div > div.select-btn > span").value;
-
-console.log(id);
