@@ -29,11 +29,29 @@ function addCountry(selectedCountry) {
 addCountry();
 
 function updateName(selectedLi) {
+
+    var dict = {
+        "English": "you chose english.",
+        "Spanish": "You chose spanish.",
+        "Arabic" : "You chose Arabic."
+      };
+
+
+
     searchInp.value = "";
     addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
-    console.log(selectBtn.firstElementChild.innerText);
+    var id = selectBtn.firstElementChild.innerText
+
+    
+
+    console.log(id);
+
+    if (id in dict) {
+        console.log(dict[id]);
+    }
+
 }
 
 searchInp.addEventListener("keyup", () => {
