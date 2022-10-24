@@ -31,9 +31,22 @@ addCountry();
 function updateName(selectedLi) {
 
     var translations = {
-        "English": "you chose english.",
-        "Spanish": "You chose spanish.",
-        "Arabic" : "You chose Arabic."
+        "English": ["1. Life jackets are available for everyone.",
+            "2. Parents are responsible for the sizing of their child’s life jacket. Life jacket will not work if the size is too big.",
+            "3. Life jacket borrower assumes all responsibility of use.",
+            "4. Borrower will not hold liable any party involved in the distribution of life jackets.",
+            "5.Inspect life jacket before use.",
+            "6.Return life jackets after use."],
+
+        "Spanish": ["1. Los chalecos salvavidas están disponibles para todos.",
+        "2. Los padres son responsables del tamaño del chaleco salvavidas de sus hijos. El chaleco salvavidas no funcionará si el tamaño es demasiado grande.",
+        "3. El prestatario del chaleco salvavidas asume toda la responsabilidad del uso.",
+        "4. El Prestatario no responsabilizará a ninguna de las partes involucradas en la distribución de los chalecos salvavidas.",
+        "5. Inspeccione el chaleco salvavidas antes de usarlo.",
+        "6. Devuelva los chalecos salvavidas después de usarlos."],
+
+
+        "Arabic" : "Rules in Arabic"
       };
 
 
@@ -49,13 +62,22 @@ function updateName(selectedLi) {
     console.log(id);
 
     var translatedSection = document.getElementById("translation");
-
+    var translationList = document.getElementById("translatedRules");
 
     if (id in translations) {
         console.log(translations[id]);
-        console.log(translatedSection.textContent);
+        //translatedSection.innerText = translations[id];
+        //console.log(translatedSection.textContent);
+        if (translatedSection.innerText.length > 1) {
+            translatedSection.innerText = "";
+        }
         
+        translations[id].forEach((data) =>{
         
+        //let li = document.createElement("li");
+        translatedSection.innerText += data + "\n \n"; 
+        //translationList.appendChild(li);
+        })
     }
 
 }
