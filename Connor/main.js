@@ -42,14 +42,20 @@ function updateName(selectedLi) {
     addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
-    var id = selectBtn.firstElementChild.innerText
+    var id = selectBtn.firstElementChild.innerText;
 
     
 
     console.log(id);
 
-    if (id in dict) {
-        console.log(dict[id]);
+    var translatedSection = document.getElementById("translation");
+
+
+    if (id in translations) {
+        console.log(translations[id]);
+        console.log(translatedSection.textContent);
+        
+        
     }
 
 }
