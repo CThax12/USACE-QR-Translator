@@ -3,7 +3,7 @@ selectBtn = wrapper.querySelector(".select-btn"),
 searchInp = wrapper.querySelector("input"),
 options = wrapper.querySelector(".options");
 
-let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian", "Azerbaijani", "Bangla",
+let language = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian", "Azerbaijani", "Bangla",
                  "Basque", "Belarusian", "Bosnian", "Bulgarian", "Burmese", "Catalan", "Cebuano", "Chinese",
                  "Corsican", "Croatian", "Czech", "Danish", "Dutch", "English", "Esperanto", "Estonian",
                  "Filipino", "Finnish", "French", "Gallician", "Georgian","German", "Greek", "Gujarati", "Haitian Creole",
@@ -20,7 +20,7 @@ let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian", "Azer
 
 function addCountry(selectedCountry) {
     options.innerHTML = "";
-    countries.forEach(country => {
+    language.forEach(country => {
         let isSelected = country == selectedCountry ? "selected" : "";
         let li = `<li onclick="updateName(this)" class="${isSelected}">${country}</li>`;
         options.insertAdjacentHTML("beforeend", li);
