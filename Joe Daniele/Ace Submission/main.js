@@ -3,6 +3,8 @@ selectBtn = wrapper.querySelector(".select-btn"),
 searchInp = wrapper.querySelector("input"),
 options = wrapper.querySelector(".options");
 
+
+
 let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assamese", "Aymara", 
                 "Azerbaijani", "Bangla", "Basque", "Belarusian", "Bosnian", "Bulgarian", "Burmese", "Catalan", "Cebuano", "Chinese",
                  "Corsican", "Croatian", "Czech", "Danish", "Dutch", "English", "Esperanto", "Estonian",
