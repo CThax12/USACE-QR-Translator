@@ -17,7 +17,7 @@ let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assam
                  "Swedish", "Tajik", "Tamil", "Tatar", "Telugu", "Thai", "Turkish", "Turkmen", "Ukranian", 
                  "Urdu", "Uyghur", "Uzbek", "Vietnamese", "Welsh", "Western Frisian", "Xhosa",
                  "Yiddish", "Yoruba", "Zulu"];
-
+                 
 function addCountry(selectedCountry) {
     options.innerHTML = "";
     countries.forEach(country => {
@@ -812,9 +812,7 @@ function updateName(selectedLi) {
         "6.Buyisela amajakhethi okuphila ngemva kokuwasebenzisa."],
       };
 
-
-
-    searchInp.value = "";
+      searchInp.value = "";
     addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
@@ -829,17 +827,13 @@ function updateName(selectedLi) {
 
     if (id in translations) {
         console.log(translations[id]);
-        //translatedSection.innerText = translations[id];
-        //console.log(translatedSection.textContent);
         if (translatedSection.innerText.length > 1) {
             translatedSection.innerText = "";
         }
         
         translations[id].forEach((data) =>{
         
-        //let li = document.createElement("li");
         translatedSection.innerText += data + "\n \n"; 
-        //translationList.appendChild(li);
         })
     }
 
