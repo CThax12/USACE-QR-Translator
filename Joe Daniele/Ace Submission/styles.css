@@ -161,12 +161,13 @@ h2 {
 
 
 #translation {
-  
+  font-size:large;
+  margin-top: 30px;
   text-align: center;
   color: white;
   position: absolute;
   z-index: 1;
-  height: 70%;
+  height: 73%;
   width: 90%;
   left: 5%;
   background-color: #1b1b1b;
@@ -198,7 +199,8 @@ h2 {
   cursor: pointer;
 }
 .select-btn{
-  height: 65px;
+  margin-top: -60px;
+  height: 50px;
   padding: 0 20px;
   font-size: 22px;
   background: #b3b3b33b;
@@ -216,7 +218,7 @@ h2 {
 .content{
   display: none;
   padding: 20px;
-  margin-top: 15px;
+  margin-top: -60px;
   background: #ffffff;
   border-radius: 7px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
@@ -237,6 +239,7 @@ h2 {
   position: absolute;
 }
 .search input{
+  top: -20px;
   height: 50px;
   width: 100%;
   outline: none;
@@ -273,6 +276,7 @@ h2 {
   background: #b3b3b33b;
 }
 .options li{
+  top: ;
   height: 50px;
   padding: 0 13px;
   font-size: 21px;
