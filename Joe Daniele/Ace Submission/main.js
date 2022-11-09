@@ -825,7 +825,6 @@ function updateName(selectedLi) {
     console.log(id);
 
     var translatedSection = document.getElementById("translation");
-    var translationList = document.getElementById("translatedRules");
 
     if (id in translations) {
         console.log(translations[id]);
