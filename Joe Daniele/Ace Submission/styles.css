@@ -10,7 +10,7 @@ nav {
     display: flex;
     height: 80px;
     width: 100%;
-    background: #1b1b1b;
+    background: rgb(27, 27, 27);
     align-items: center;
     justify-content: space-between;
     padding: 0 50px 0 100px;
@@ -159,6 +159,16 @@ h2 {
   text-align: center;
 }
 
+.logo-one img{
+  width: 100px;
+  height: 80px;
+  margin-left: -50px;
+}
+
+.logo-two img{
+  width: 240px;
+  height: 80x;
+}
 
 #translation {
   font-size:large;
