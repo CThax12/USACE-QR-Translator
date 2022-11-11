@@ -166,9 +166,11 @@ h2 {
 }
 
 .logo-two img{
-  width: 215px;
-  height: 80x;
+  width: 222px;
+  margin-left: -20px;
 }
+
+
 
 #translation {
   font-size:large;
@@ -286,7 +288,7 @@ h2 {
   background: #b3b3b33b;
 }
 .options li{
-  top: ;
+  top: 50;
   height: 50px;
   padding: 0 13px;
   font-size: 21px;
