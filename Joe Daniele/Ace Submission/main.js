@@ -849,7 +849,7 @@ searchInp.addEventListener("keyup", () => {
         let isSelected = data == selectBtn.firstElementChild.innerText ? "selected" : "";
         return `<li onclick="updateName(this)" class="${isSelected}">${data}</li>`;
     }).join("");
-    options.innerHTML = arr ? arr : `<p style="margin-top: 10px;">Oops! Language not found</p>`;
+    options.innerHTML = arr ? arr : `<p style="margin-top: 10px;">Sorry! Language not found</p>`;
 });
 
 selectBtn.addEventListener("click", () => wrapper.classList.toggle("active"));
