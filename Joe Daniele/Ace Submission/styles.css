@@ -160,12 +160,14 @@ h2 {
 }
 
 .logo-one img{
+  position: relative;
   width: 100px;
   height: 80px;
   margin-left: -50px;
 }
 
 .logo-two img{
+  position: relative;
   width: 222px;
   margin-left: -20px;
 }
@@ -174,7 +176,7 @@ h2 {
 
 #translation {
   font-size:large;
-  margin-top: 30px;
+  margin-top: 31px;
   text-align: center;
   color: white;
   position: absolute;
