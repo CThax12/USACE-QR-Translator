@@ -5,7 +5,7 @@ options = wrapper.querySelector(".options");
 
 
 
-let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assamese", "Aymara", 
+let languages = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assamese", "Aymara", 
                 "Azerbaijani", "Bangla", "Basque", "Belarusian", "Bosnian", "Bulgarian", "Burmese", "Catalan", "Cebuano", "Chinese",
                  "Corsican", "Croatian", "Czech", "Danish", "Dutch", "English", "Esperanto", "Estonian",
                  "Filipino", "Finnish", "French", "Gallician", "Georgian","German", "Greek", "Gujarati", "Haitian Creole",
@@ -20,11 +20,11 @@ let countries = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assam
                  "Urdu", "Uyghur", "Uzbek", "Vietnamese", "Welsh", "Western Frisian", "Xhosa",
                  "Yiddish", "Yoruba", "Zulu"];
                  
-function addCountry(selectedCountry) {
+function addCountry(selectedLanguage) {
     options.innerHTML = "";
-    countries.forEach(country => {
-        let isSelected = country == selectedCountry ? "selected" : "";
-        let li = `<li onclick="updateName(this)" class="${isSelected}">${country}</li>`;
+    languages.forEach(language => {
+        let isSelected = language == selectedLanguage ? "selected" : "";
+        let li = `<li onclick="updateName(this)" class="${isSelected}">${language}</li>`;
         options.insertAdjacentHTML("beforeend", li);
     });
 }
@@ -843,7 +843,7 @@ function updateName(selectedLi) {
 searchInp.addEventListener("keyup", () => {
     let arr = [];
     let searchWord = searchInp.value.toLowerCase();
-    arr = countries.filter(data => {
+    arr = languages.filter(data => {
         return data.toLowerCase().startsWith(searchWord);
     }).map(data => {
         let isSelected = data == selectBtn.firstElementChild.innerText ? "selected" : "";
