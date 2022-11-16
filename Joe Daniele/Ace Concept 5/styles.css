@@ -159,19 +159,10 @@ h2 {
   text-align: center;
 }
 
-.logo-one img{
-  position: relative;
-  width: 100px;
-  height: 80px;
-  margin-left: -50px;
-}
+.logo-image{
 
-.logo-two img{
-  position: relative;
-  width: 222px;
-  margin-left: -20px;
+  
 }
-
 
 
 #translation {
