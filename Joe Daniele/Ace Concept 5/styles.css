@@ -159,12 +159,26 @@ h2 {
   text-align: center;
 }
 
-.logo-image{
 
-  
+
+/*Title or headline in NavBar */
+label.headline {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/*Background Template*/
+#hero {
+  mask-image: url(heroSectionTemplate.png);
+
+
 }
 
 
+
+
+/*Translation window params*/
 #translation {
   font-size:large;
   margin-top: 31px;
@@ -177,6 +191,8 @@ h2 {
   left: 5%;
   background-color: #1b1b1b;
 }
+
+
 
 
 /* CSS FOR AUTOCOMPLETE DROPDOWN*/
@@ -204,7 +220,7 @@ h2 {
   cursor: pointer;
 }
 .select-btn{
-  margin-top: -60px;
+  margin-top: -80px;
   height: 50px;
   padding: 0 20px;
   font-size: 22px;
