@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 nav {
@@ -16,8 +17,6 @@ nav {
     padding: 0 50px 0 100px;
     flex-wrap: wrap;
     z-index: 5;
-    
-
 }
 
 
@@ -161,35 +160,25 @@ h2 {
 
 
 
-/*Title or headline in NavBar */
+/*Title in NavBar */
 label.headline {
   color: white;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 18px;
 }
-
-/*Background Template*/
-#hero {
-  mask-image: url(heroSectionTemplate.png);
-
-
-}
-
-
-
 
 /*Translation window params*/
 #translation {
   font-size:large;
   margin-top: 31px;
   text-align: center;
-  color: white;
+  color: black;
   position: absolute;
   z-index: 1;
   height: 73%;
   width: 90%;
   left: 5%;
-  background-color: #1b1b1b;
+  background: transparent;
 }
 
 
