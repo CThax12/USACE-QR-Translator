@@ -3,8 +3,7 @@ selectBtn = wrapper.querySelector(".select-btn");
 searchInp = wrapper.querySelector("input");
 options = wrapper.querySelector(".options");
 
-document.body.style.backgroundImage = "url('/Joe Daniele/Ace Concept 5/heroSectionTemplate.png')";
-document.body.style.backgroundRepeat = "no-repeat";
+
 
 
 let languages = ["Afrikaans", "Albanian", "Amharic", "Arabic", "Armenian","Assamese", "Aymara", 

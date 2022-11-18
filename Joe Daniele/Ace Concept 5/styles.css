@@ -175,7 +175,7 @@ label.headline {
   color: black;
   position: absolute;
   z-index: 1;
-  height: 73%;
+  height: 60%;
   width: 90%;
   left: 5%;
   background: transparent;
@@ -296,3 +296,12 @@ label.headline {
   background: #b3b3b33b;
 }
 
+body {
+  background-color:#e9ede9;  
+}
+
+picture{
+position:absolute;
+top: 800px;
+left: 100px;
+}
