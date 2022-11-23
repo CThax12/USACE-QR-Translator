@@ -300,8 +300,12 @@ body {
   background-color:#e9ede9;  
 }
 
-picture{
-position:absolute;
-top: 800px;
-left: 100px;
+.logos{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;  
+  margin-top: 640px;
 }
+
