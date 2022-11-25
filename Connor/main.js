@@ -5,20 +5,24 @@ options = wrapper.querySelector(".options");
 
 var translations;
 var langauges;
-fetch('translations.json')
-  .then((response) => response.json())
-  .then((json) => translations = json)
-  .then(() => { 
-    console.log(translations);
-    languages = Object.keys(translations);
-    console.log(languages);
-}
-  
-  );
+
+ 
+    fetch('translations.json')
+    .then((response) => response.json())
+    .then((json) => translations = json)
+    .then(() => { 
+     console.log("HERE");
+
+      console.log(translations);
+      languages = Object.keys(translations);
+  }
+    
+    );
   
 
 
 function addCountry(selectedLanguage) {
+
     options.innerHTML = "";
     languages.forEach(language => {
         let isSelected = language == selectedLanguage ? "selected" : "";
@@ -33,7 +37,7 @@ function updateName(selectedLi) {
     
 
       searchInp.value = "";
-    addCountry(selectedLi.innerText);
+   addCountry(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
     var id = selectBtn.firstElementChild.innerText;
