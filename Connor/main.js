@@ -22,7 +22,7 @@ var langauges;
 
 
 function addCountry(selectedLanguage) {
-
+    console.log("test");
     options.innerHTML = "";
     languages.forEach(language => {
         let isSelected = language == selectedLanguage ? "selected" : "";
