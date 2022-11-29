@@ -7,7 +7,7 @@ var translations;
 var langauges;
 
  
-    fetch('translations.json')
+    fetch('prettyTranslations.json')
     .then((response) => response.json())
     .then((json) => translations = json)
     .then(() => { 
