@@ -4,20 +4,19 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    
 }
 
 nav {
     display: flex;
     height: 80px;
     width: 100%;
-    background: #1b1b1b;
+    background: rgb(27, 27, 27);
     align-items: center;
     justify-content: space-between;
     padding: 0 50px 0 100px;
     flex-wrap: wrap;
     z-index: 5;
-    
-
 }
 
 
@@ -160,17 +159,29 @@ h2 {
 }
 
 
+
+/*Title in NavBar */
+label.headline {
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/*Translation window params*/
 #translation {
-  
+  font-size:large;
+  margin-top: 31px;
   text-align: center;
   color: black;
   position: absolute;
   z-index: 1;
-  height: 70%;
+  height: 60%;
   width: 90%;
   left: 5%;
-  background-color: rgb(214, 208, 208);
+  background: transparent;
 }
+
+
 
 
 /* CSS FOR AUTOCOMPLETE DROPDOWN*/
@@ -198,7 +209,8 @@ h2 {
   cursor: pointer;
 }
 .select-btn{
-  height: 65px;
+  margin-top: -80px;
+  height: 50px;
   padding: 0 20px;
   font-size: 22px;
   background: #b3b3b33b;
@@ -216,7 +228,7 @@ h2 {
 .content{
   display: none;
   padding: 20px;
-  margin-top: 15px;
+  margin-top: -60px;
   background: #ffffff;
   border-radius: 7px;
   box-shadow: 0 10px 25px rgba(0,0,0,0.1);
@@ -237,6 +249,7 @@ h2 {
   position: absolute;
 }
 .search input{
+  top: -20px;
   height: 50px;
   width: 100%;
   outline: none;
@@ -273,6 +286,7 @@ h2 {
   background: #b3b3b33b;
 }
 .options li{
+  top: 50;
   height: 50px;
   padding: 0 13px;
   font-size: 21px;
@@ -280,5 +294,18 @@ h2 {
 .options li:hover, li.selected{
   border-radius: 5px;
   background: #b3b3b33b;
+}
+
+body {
+  background-color:#e9ede9;  
+}
+
+.logos{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;  
+  margin-top: 640px;
 }
 

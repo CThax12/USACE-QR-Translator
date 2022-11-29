@@ -15,6 +15,8 @@ var langauges;
 
       console.log(translations);
       languages = Object.keys(translations);
+      addCountry();
+
   }
     
     );
@@ -30,7 +32,6 @@ function addCountry(selectedLanguage) {
         options.insertAdjacentHTML("beforeend", li);
     });
 }
-addCountry();
 
 function updateName(selectedLi) {
 
