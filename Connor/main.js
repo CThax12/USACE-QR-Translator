@@ -11,9 +11,7 @@ var langauges;
     .then((response) => response.json())
     .then((json) => translations = json)
     .then(() => { 
-     console.log("HERE");
 
-      console.log(translations);
       languages = Object.keys(translations);
       addCountry();
 
