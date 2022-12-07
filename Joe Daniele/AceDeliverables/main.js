@@ -42,12 +42,10 @@ function updateName(selectedLi) {
 
     
 
-    console.log(id);
 
     var translatedSection = document.getElementById("translation");
 
     if (id in translations) {
-        console.log(translations[id]);
         if (translatedSection.innerText.length > 1) {
             translatedSection.innerText = "";
         }
