@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>USACE</title>
+  </head>
+
+  <body>
+    <nav>
+      <label class="headline">LIFE JACKET LOANER STATION</label>
+
+      <input type="checkbox" id="click" />
+      <label for="click" class="menu-btn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <ul>
+        <li><a class="active" href="./">Home</a></li>
+        <li><a href="https://www.usace.army.mil/About/">About</a></li>
+        <li><a href="https://www.usace.army.mil/Careers/">Careers</a></li>
+        <li><a href="https://www.usace.army.mil/Contact/">Contact</a></li>
+      </ul>
+    </nav>
+
+    <form id="selection">
+      <div class="wrapper">
+        <div class="select-btn">
+          <span style="font-weight: 500">Select Language</span>
+          <i class="uil uil-angle-down"></i>
+        </div>
+        <div class="content">
+          <div class="search">
+            <i class="uil uil-search"></i>
+            <input spellcheck="false" type="text" placeholder="Search" />
+          </div>
+          <ul class="options"></ul>
+          <script type="text/javascript"></script>
+        </div>
+      </div>
+
+      <script src="main.js"></script>
+    </form>
+
+    <span id="translation">
+      <p></p>
+    </span>
+    <div>
+      <img src="heroSectionTemplate.png" alt="logos" class="logos" />
+    </div>
+  </body>
+
+  <script src="main.js"></script>
+</html>
