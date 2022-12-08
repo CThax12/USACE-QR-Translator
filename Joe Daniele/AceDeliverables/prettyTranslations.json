@@ -7,6 +7,14 @@
     "5. Inspekteer reddingsbaadjie voor gebruik.",
     "6. Bring reddingsbaadjies terug na gebruik."
   ],
+  "Akan": [
+    "1. Life jackets wɔ hɔ ma obiara.",
+    "2. Awofo na wɔhwɛ wɔn ba no nkwagye jacket no kɛse. Sɛ ne kɛse yɛ kɛse dodo a, nkwagye jacket no rennyɛ adwuma.",
+    "3. Life jacket borrower fa asɛyɛde nyinaa a ɛfa dwumadie ho.",
+    "4. Ɔdefɛmfo remfa asodi nto ɔfã biara a ɔde ne ho hyɛ nkwagye ntade kyekyɛ mu.",
+    "5. Hwɛ life jacket ansa na wode adi dwuma.",
+    "6. San fa nkwagye jackets san ba bere a wode adi dwuma awie no."
+  ],
   "Albanian": [
     "1. Jelekët e shpëtimit janë të disponueshme për të gjithë.",
     "2. Prindërit janë përgjegjës për madhësinë e jelekut të shpëtimit të fëmijës së tyre. Jeleku i shpëtimit nuk do të funksionojë nëse madhësia është shumë e madhe.",
@@ -71,6 +79,14 @@
     "5. Aw bɛ ɲɛnamaya jakite sɛgɛsɛgɛ sani a ka baara kɛ ni a ye.",
     "6. Aw bɛ ɲɛnamaya jakitew segin u baara kɔfɛ."
   ],
+  "Bangla":[
+    "1. লাইফ জ্যাকেট সবার জন্য উপলব্ধ।",
+    "2. পিতামাতারা তাদের সন্তানের লাইফ জ্যাকেটের সাইজিংয়ের জন্য দায়ী। আকার খুব বড় হলে লাইফ জ্যাকেট কাজ করবে না।",
+    "3. লাইফ জ্যাকেট ঋণগ্রহীতা ব্যবহারের সমস্ত দায়িত্ব গ্রহণ করে।",
+    "4. ঋণগ্রহীতা লাইফ জ্যাকেট বিতরণের সাথে জড়িত কোন পক্ষকে দায়ী করবে না।",
+    "5. ব্যবহারের আগে লাইফ জ্যাকেট পরিদর্শন করুন।",
+    "6. ব্যবহারের পরে লাইফ জ্যাকেট ফেরত দিন।"
+  ],
   "Basque": [
     "1. Salbamendu-txakak guztientzako eskuragarri daude.",
     "2. Gurasoak dira euren haurraren salbamendu-txalekoaren tamainaren ardura. Salbamendu-txalekoak ez du funtzionatuko tamaina handiegia bada",
@@ -86,6 +102,14 @@
     "4. Пазычальнік не нясе адказнасці ні з аднаго боку, які ўдзельнічае ў размеркаванні выратавальных камізэлек.",
     "5. Праверце выратавальны камізэлька перад выкарыстаннем.",
     "6. Вярніце выратавальныя камізэлькі пасля выкарыстання."
+  ],
+  "Bhojpuri":[
+    "1. सबके खातिर लाइफ जैकेट उपलब्ध बा।",
+    "2. अपना बच्चा के लाइफ जैकेट के साइजिंग के जिम्मेदारी माता-पिता के होखेला। साइज बहुत बड़ होखे त लाइफ जैकेट काम ना करी।",
+    "3. लाइफ जैकेट उधार लेवे वाला उपयोग के सभ जिम्मेदारी लेवेला।",
+    "4. उधारकर्ता लाइफ जैकेट बांटे में शामिल कवनो पक्ष के जिम्मेदार ना ठहराई।",
+    "5. इस्तेमाल से पहिले लाइफ जैकेट के निरीक्षण करीं।",
+    "6. इस्तेमाल के बाद लाइफ जैकेट वापस करीं।"
   ],
   "Bengali": [
     "1. লাইফ জ্যাকেট সবার জন্য উপলব্ধ।",
@@ -143,6 +167,13 @@
     "5. Susiha ang life jacket sa dili pa gamiton.",
     "6. Iuli ang mga life jacket human magamit."
   ],
+  "Central Kurdish":[
+  "1. چاکەتی ڕزگارکەر بۆ هەموو کەسێک بەردەستە.",
+  "2. دایک و باوک بەرپرسیارن لە قەبارەی چاکەتی ڕزگارکەری منداڵەکەیان. چاکەتی ڕزگارکەر کارناکات ئەگەر قەبارەکەی زۆر گەورە بێت.",
+  "3. قەرزدەری چاکەتی ڕزگارکەر هەموو بەرپرسیارێتی بەکارهێنانی لە ئەستۆ دەگرێت.",
+  "4. قەرزوەرگر هیچ لایەنێک بەرپرسیار نابێت کە بەشداربێت لە دابەشکردنی چاکەتی ڕزگارکردن.",
+  "5. پشکنینی چاکەتی ڕزگارکەر پێش بەکارهێنان.",
+  "6. گەڕانەوەی چاکەتی ڕزگارکەر دوای بەکارهێنان."],
   "Chinese": [
     "1. 人人都有救生衣.",
     "2. 孩子的救生衣尺码由家长负责，如果尺码太大，救生衣将不起作用。",
@@ -183,6 +214,21 @@
     "5. Efterse redningsvesten før brug.",
     "6. Returner redningsveste efter brug."
   ],
+  "Divehi":[
+  "1. ލައިފް ޖެކެޓް އެންމެންނަށް ލިބޭނެ.",
+  "2. ދަރިފުޅުގެ ލައިފް ޖެކެޓްގެ ސައިޒު ބެލެނިވެރިންގެ ޒިންމާއެއް. ލައިފް ޖެކެޓްގެ ސައިޒު މާ ބޮޑު ނަމަ މަސައްކަތް ނުކުރާނެ.",
+  "3. ލައިފް ޖެކެޓް ލޯނު ނަގާ ފަރާތުން ބޭނުންކުރުމުގެ ހުރިހާ ޒިންމާއެއް އުފުލަނީ.",
+  "4. ލައިފް ޖެކެޓް ބެހުމުގައި ބައިވެރިވާ އެއްވެސް ފަރާތަކުން ލޯނު ނަގާ ފަރާތުން ޒިންމާވާކަށް ނުޖެހޭނެއެވެ.",
+  "5. ލައިފް ޖެކެޓް ބޭނުން ކުރުމުގެ ކުރިން ބަލާށެވެ.",
+  "6. ލައިފް ޖެކެޓް ބޭނުން ކުރުމަށްފަހު އަނބުރާ ގެންދިއުން."],
+  "Dogri": [
+    "1. लाइफ जैकेट हर किसी लेई उपलब्ध ऐ।",
+    "2. माता-पिता अपने बच्चे दी लाइफ जैकेट दे साइजिंग लेई जिम्मेदार न। जेकर साइज बड़ा बड्डा ऐ तां लाइफ जैकेट कम्म नेईं करग।",
+    "3. लाइफ जैकेट उधारकर्ता इस्तेमाल दी सारी जिम्मेदारी लैंदा ऐ।",
+    "4. उधारकर्ता लाइफ जैकेट बंड च शामल कुसै बी पार्टी गी जिम्मेदार नेईं ठहराग।",
+    "5. इस्तेमाल करने शा पैह्ले लाइफ जैकेट दा निरीक्षण करो।",
+    "6. इस्तेमाल दे बाद लाइफ जैकेट वापस करो।"
+  ],
   "Dutch": [
     "1. Reddingsvesten zijn voor iedereen beschikbaar.",
     "2. Ouders zijn verantwoordelijk voor de maatvoering van het reddingsvest van hun kind. Reddingsvest werkt niet als de maat te groot is.",
@@ -214,6 +260,14 @@
     "4. Laenaja ei vastuta päästevestide levitamisega seotud osapoolte eest.",
     "5. Kontrollige päästevesti enne kasutamist.",
     "6. Tagastage päästevestid pärast kasutamist."
+  ],
+  "Ewe":[
+    "1. Agbetsiwuiwo li na amesiame.",
+    "2. Dzilawo ƒe agbanɔamedzie wònye be woakpɔ wo vi ƒe agbeɖewu ƒe lolome. Agbetsiwu mawɔ dɔ ne eƒe lolome lolo akpa o.",
+    "3. Agbetsiwudola tsɔa agbanɔamedziwo katã le eŋudɔwɔwɔ me.",
+    "4. Dola maxɔ agba le akpa aɖeke si kpɔ gome le agbetsiwuiwo mama me o.",
+    "5. Lé ŋku ɖe agbeɖewu ŋu hafi nàzãe.",
+    "6. Trɔ agbetsiwuiwo vɛ le wo zazã vɔ megbe."
   ],
   "Filipino": [
     "1. Available ang mga life jacket para sa lahat.",
@@ -247,6 +301,14 @@
     "5. Inspeccionar o chaleco salvavidas antes de usalo.",
     "6. Devolver os chalecos salvavidas despois do uso."
   ],
+  "Ganda":[
+    "1. Life jackets ziriwo eri buli muntu.",
+    "2. Abazadde be bavunaanyizibwa ku sayizi ya life jacket y'omwana waabwe. Life jacket tegenda kukola singa sayizi eba nnene nnyo.",
+    "3. Omuwozi wa life jacket atwala obuvunaanyizibwa bwonna obw'okukozesa.",
+    "4. Omuwozi tajja kuvunaanibwa ludda lwonna olukwatibwako mu kugaba obukooti bw'obulamu.",
+    "5. Kebera life jacket nga tonnagikozesa.",
+    "6. Ddamu obukooti bw'obulamu oluvannyuma lw'okukozesebwa."
+  ],
   "Georgian": [
     "1. მაშველი ჟილეტი ყველასთვის ხელმისაწვდომია.",
     "2. მშობლები პასუხისმგებელნი არიან თავიანთი შვილის მაშველი ჟილეტის ზომაზე. მაშველი ჟილეტი არ იმუშავებს, თუ ზომა ძალიან დიდია.",
@@ -271,6 +333,13 @@
     "5. Επιθεωρήστε το σωσίβιο πριν από τη χρήση.",
     "6. Επιστρέψτε τα σωσίβια μετά τη χρήση."
   ],
+  "Gujdarini":[
+  "1. Ojeguereko chaqueta salvavidas opavavépe guarã.",
+  "2. Tuvakuéra oreko responsabilidad imemby chaleco salvavidas tamaño rehe. Chaqueta salvavidas ndoikomo'ãi tuichaitereíramo tamaño.",
+  "3. Prestatario chaleco salvavidas oasumi opavave responsabilidad jeporu reheguáva.",
+  "4. Prestatario ndoguerekomo'ãi responsable mba'eveichagua parte oîva chaleco salvavidas ñeme'ême.",
+  "5. Ojesareko chaleco salvavidas ojeporu mboyve.",
+  "6. Ojegueru jey chaqueta salvavidas ojeporu rire."],
   "Gujarati": [
     "1. લાઇફ જેકેટ દરેક માટે ઉપલબ્ધ છે.",
     "2. માતા-પિતા તેમના બાળકના લાઇફ જેકેટના કદ માટે જવાબદાર છે. જો કદ ખૂબ મોટું હોય તો લાઇફ જેકેટ કામ કરશે નહીં.",
@@ -350,6 +419,14 @@
     "4. Onye na-agbaziri agbaziri agaghị ejide onye ọ bụla na-etinye aka na nkesa jaket ndụ.",
     "5. Nyochaa jaket ndụ tupu ejiri ya.",
     "6. Weghachite jaket ndụ mgbe ejiri ya."
+  ],
+  "Iloko":[
+    "1. Mabalin ti ag-lief jacket para iti amin.",
+    "2. Dagiti nagannak ti responsable iti kadakkel ti life jacket ti anakda. Saan nga agtrabaho ti life jacket no dakkel unay ti kadakkelna.",
+    "3. Ti life jacket borrower ket mangala amin a responsibilidad ti panagusar.",
+    "4. Saan a sungsungbatan ti immutang ti aniaman a partido a nairaman iti pannakaiwaras dagiti life jacket.",
+    "5. Sukimaten ti life jacket sakbay nga usaren.",
+    "6. Isubli dagiti life jacket kalpasan ti pannakausar."
   ],
   "Indonesian": [
     "1. Jaket pelampung tersedia untuk semua orang.",
@@ -431,6 +508,22 @@
 "5. 구명조끼를 사용하기 전에 검사하십시오.",
 "6. 구명조끼는 사용 후 반납하세요."
   ],
+  "Krio":[
+    "1. Laif jakit de fo evribodi.",
+    "2. Na mama ɛn papa dɛn gɛt fɔ pe fɔ di sayz fɔ dɛn pikin in layf jakit. Layf jakit nɔ go wok if di saiz tu big.",
+    "3. Di pɔsin we de lɛnt layf jakit de tek ɔl di rispɔnsibiliti fɔ yuz.",
+    "4. Di pɔsin we de lɛnt nɔ go gɛt ɛni pati we involv fɔ sheb layf jakɛt.",
+    "5. Inspek layf jakit bifo yu yuz am.",
+    "6. Ritɔn layf jakit afta yu dɔn yuz am."
+  ],
+  "Kurdish":[
+    "1. Çakêtên jiyanê ji bo her kesî hene.",
+    "2. Dêûbav ji mezinbûna çakêtê jiyanê yê zarokê xwe berpirsiyar in. Ger qebareya wê pir mezin be, çakêtê jiyanê naxebite.",
+    "3. Deyndêrê çakêtê jiyanê hemî berpirsiyariya karanînê digire ser xwe.",
+    "4. Deyndar dê ti aliyek ku di belavkirina çakêtên jiyanê de têkildar in berpirsiyar nebîne.",
+    "5. Berî ku bikar bînin çakêtê jiyanê kontrol bikin.",
+    "6. Piştî bikaranîna çakêtên jiyanê vegerin."
+  ],
   "Kyrgyz": [
     "1. Куткаруучу жилеттер баарына жеткиликтүү.",
     "2. Ата-эне баласынын куткаруучу жилетинин өлчөмүнө жооп берет. Өлчөмү өтө чоң болсо куткаруучу жилет иштебейт.",
@@ -463,6 +556,14 @@
     "5. Pirms lietošanas pārbaudiet glābšanas vesti.",
     "6. Atgrieziet glābšanas vestes pēc lietošanas."
   ],
+  "Lingala":[
+    "1. Ba vestes de sauvetage ezali pona mutu nionso.",
+    "2. Baboti bazali na mokumba ya taille ya veste de sauvetage ya mwana na bango. Veste de sauvetage ekosala te soki taille ezali munene mingi.",
+    "3. Modefi ya veste de vie azuaka mokumba nionso ya kosalela.",
+    "4. Modefi akozwa mokumba te na moto moko oyo azali na kati ya bokaboli ya ba vestes de sauvegarde.",
+    "5. Tala veste de sauvegarde liboso ya kosalela.",
+    "6. Zongisa ba vestes de sauvetage sima ya kosalela."
+  ],
   "Lithuanian": [
     "1. Gelbėjimosi liemenės yra prieinamos visiems.",
     "2. Tėvai atsako už savo vaiko gelbėjimosi liemenės dydį. Gelbėjimosi liemenė neveiks, jei dydis per didelis.",
@@ -478,6 +579,14 @@
     "4. De Prêt hält keng Partei verantwortlech un der Verdeelung vu Rettungsjacken.",
     "5.Inspektéiert Rettungsjacket virum Gebrauch.",
     "6.Retour Rettungsjacken nom Gebrauch."
+  ],
+  "Mathili":[
+    "1. लाइफ जैकेट सबहक लेल उपलब्ध अछि।",
+    "2. अपन बच्चा के लाइफ जैकेट के साइजिंग के जिम्मेदारी माता-पिता के छैन्ह। साइज बेसी भेला पर लाइफ जैकेट काज नै करत।",
+    "3. लाइफ जैकेट उधारकर्ता उपयोग के सब जिम्मेदारी ग्रहण करैत अछि।",
+    "4. उधारकर्ता लाइफ जैकेट वितरण मे शामिल कोनो पक्ष के जिम्मेदार नहि ठहराओत।",
+    "5. उपयोग स पहिने लाइफ जैकेट क निरीक्षण करू।",
+    "6. उपयोग के बाद लाइफ जैकेट वापस करू।"
   ],
   "Macedonian": [
     "1. Елекот за спасување се достапни за секого.",
@@ -543,6 +652,22 @@
     "5. Хэрэглэхийн өмнө аврах хантаазыг шалгана уу.",
     "6. Аврах хантаазыг хэрэглэсний дараа буцааж өгнө үү."
   ],
+  "Mizo":[
+    "1. Life jacket hi mi zawng zawng tan a awm vek.",
+    "2. Nu leh pate hian an fate life jacket size siam danah mawhphurhna an nei. Life jacket hi a lian lutuk chuan a thawk thei dawn lo.",
+    "3. Life jacket loan latu chuan hmanna mawhphurhna zawng zawng a la vek.",
+    "4. Life jacket semnaah hian borrower chuan a mawhphurtu a ni lovang.",
+    "5. Life jacket hman hmain enfiah hmasa phawt ang che.",
+    "6. Life jacket hman zawhah rawn kir leh rawh."
+  ],
+  "Northern Sotho":[
+    "1. Dibaki tša bophelo di hwetšagala go mang le mang.",
+    "2. Batswadi ba na le maikarabelo a bogolo bja baki ya bophelo bja ngwana wa bona. Baki ya bophelo e ka se šome ge bogolo e le bjo bogolo kudu.",
+    "3. Moadingwa wa baki ya bophelo o tšea maikarabelo ka moka a tšhomišo.",
+    "4. Moadingwa a ka se be le maikarabelo a mokgatlo ofe goba ofe wo o amegago kabong ya dijase tša bophelo.",
+    "5. Hlahloba baki ya bophelo pele o e sebedisa.",
+    "6. Bušetša dijase tša bophelo ka morago ga tšhomišo."
+  ],
   "Nepali": [
     "१. लाइफ ज्याकेटहरू सबैका लागि उपलब्ध छन्।",
     "२. आमाबाबु आफ्नो बच्चाको लाइफ ज्याकेटको साइजको लागि जिम्मेवार छन्। साइज धेरै ठूलो छ भने लाइफ ज्याकेटले काम गर्दैन।",
@@ -559,6 +684,14 @@
     "5.Inspiser redningsvest før bruk.",
     "6.Returner redningsvester etter bruk."
   ],
+  "Nyanja":[
+    "1. Zovala zamoyo zilipo kwa aliyense.",
+    "2. Makolo ndi omwe ali ndi udindo pa kukula kwa jekete la moyo wa mwana wawo. Life jacket sigwira ntchito ngati kukula kwake kuli kwakukulu.",
+    "3. Wobwereka jekete la moyo amakhala ndi udindo wonse wogwiritsa ntchito.",
+    "4. Wobwereka sadzakhala ndi mlandu aliyense wokhudzidwa ndi kagawidwe ka jekete zodzitetezera.",
+    "5. Yang'anani jekete lamoyo musanagwiritse ntchito.",
+    "6. Bweretsani ma jekete opulumutsa moyo mukatha kugwiritsa ntchito."
+  ],
   "Odia": [
     "1. ଲାଇଫ୍ ଜ୍ୟାକେଟ୍ ସମସ୍ତଙ୍କ ପାଇଁ ଉପଲବ୍ଧ |",
     "2. ପିତାମାତାମାନେ ନିଜ ପିଲାଙ୍କ ଲାଇଫ୍ ଜ୍ୟାକେଟର ଆକାର ପାଇଁ ଦାୟୀ ଅଟନ୍ତି। ଆକାର ବହୁତ ବଡ ହେଲେ ଲାଇଫ୍ ଜ୍ୟାକେଟ୍ କାମ କରିବ ନାହିଁ।",
@@ -566,6 +699,14 @@
     "4. life ଣଦାତା ଲାଇଫ୍ ଜ୍ୟାକେଟ୍ ବଣ୍ଟନରେ ଜଡିତ କ party ଣସି ଦଳକୁ ଦାୟୀ କରିବେ ନାହିଁ।",
     "5. ବ୍ୟବହାର ପୂର୍ବରୁ ଲାଇଫ୍ ଜ୍ୟାକେଟ୍ ଯାଞ୍ଚ କରନ୍ତୁ।",
     "6. ବ୍ୟବହାର ପରେ ଲାଇଫ୍ ଜ୍ୟାକେଟ୍ ଫେରାନ୍ତୁ |"
+  ],
+  "Oromo": [
+    "1. Jaakkeettiin lubbuu baraaruu nama hundaaf ni argama.",
+    "2. Warri saayizii jaakkeetii lubbuu baraaruu daa'ima isaaniif itti gaafatamummaa qabu. Jaakkeettiin lubbuu baraaruu yoo saayiziin isaa baay'ee guddaa ta'e hin hojjetu.",
+    "3. Liqeessaan jaakkeetii lubbuu itti gaafatamummaa hunda fudhata.",
+    "4. Liqeessaan qaama raabsa jaakkeetii lubbuu baraaruu keessatti hirmaate kamiyyuu itti gaafatamummaa hin fudhatu.",
+    "5. Fayyadama dura jaakkeettii lubbuu baraaruu sakatta'i.",
+    "6. Jaakkeetii lubbuu baraaruu erga fayyadamtee booda deebisi."
   ],
   "Pashto": [
     "1. د ژوند جاکټونه د هرچا لپاره شتون لري.",
@@ -606,6 +747,14 @@
     "4. ਕਰਜ਼ਦਾਰ ਲਾਈਫ ਜੈਕਟਾਂ ਦੀ ਵੰਡ ਵਿੱਚ ਸ਼ਾਮਲ ਕਿਸੇ ਵੀ ਧਿਰ ਨੂੰ ਜਵਾਬਦੇਹ ਨਹੀਂ ਠਹਿਰਾਏਗਾ।",
     "5. ਵਰਤੋਂ ਤੋਂ ਪਹਿਲਾਂ ਲਾਈਫ ਜੈਕੇਟ ਦੀ ਜਾਂਚ ਕਰੋ।",
     "6. ਵਰਤੋਂ ਤੋਂ ਬਾਅਦ ਲਾਈਫ ਜੈਕਟਾਂ ਵਾਪਸ ਕਰੋ।"
+  ],
+  "Quecha":[
+    "1. Llapa runapaqmi chaleco salvavidas nisqakuna kan.",
+    "2. Tayta-mamakunam wawankuq chaleco salvavidas nisqapa sayayninta qawananku. Chaleco salvavidas nisqa mana llamkanqachu hatun kaynin ancha hatun kaptinqa.",
+    "3. Chaleco salvavidas prestakuqmi llapan responsabilidadta utilizan.",
+    "4. Manukuq runaqa manan mayqen runatapas huchachanqachu chaleco salvavidas rakiypi.",
+    "5. Manaraq llamk'achkaspa chaleco salvavidas nisqa qhaway.",
+    "6. Chaleco salvavidas nisqakunata kutichiy llamk'achiyta tukuruspa".
   ],
   "Romanian": [
     "1. Vestele de salvare sunt disponibile pentru toată lumea.",
@@ -703,6 +852,14 @@
     "5. Baadh jaakada nolosha ka hor inta aan la isticmaalin.",
     "6. Soo celi jaakadaha nolosha ka dib isticmaalka."
   ],
+  "Southern Sotho": [
+    "1. Lijakete tsa bophelo li fumaneha bakeng sa motho e mong le e mong.",
+    "2. Batsoali ba na le boikarabelo ba ho lekanya baki ea bophelo ea ngoana oa bona. Life jacket e ke ke ea sebetsa haeba boholo bo le boholo haholo.",
+    "3. Motho ea alimang baki ea bophelo o nka boikarabelo bohle ba tšebeliso.",
+    "4. Moalimi a ke ke a jara molato ofe kapa ofe ea amehang kabong ea lijase tsa bophelo.",
+    "5. Hlahloba baki ea pholoso pele u e sebelisa.",
+    "6. Khutlisetsa libaki tsa bophelo ka mor'a ho sebelisoa."
+  ],
   "Spanish": [
     "1. Los chalecos salvavidas están disponibles para todos.",
     "2. Los padres son responsables del tamaño del chaleco salvavidas de su hijo. El chaleco salvavidas no funcionará si el tamaño es demasiado grande",
@@ -766,6 +923,14 @@
     "4. లైఫ్ జాకెట్ల పంపిణీలో పాల్గొన్న ఏ పక్షానికి రుణగ్రహీత బాధ్యత వహించడు.",
     "5. ఉపయోగించే ముందు లైఫ్ జాకెట్‌ని తనిఖీ చేయండి.",
     "6.ఉపయోగించిన తర్వాత లైఫ్ జాకెట్లను తిరిగి ఇవ్వండి."
+  ],
+  "Tigrinya":[
+    "1. ናይ ህይወት ኣድሕን ጃኬት ንኹሉ ሰብ ይርከብ።",
+    "2. ወለዲ ንዓቐን ናይ ውላዶም ናይ ህይወት ኣድሕን ጃኬት ሓላፍነት ኣለዎም። ናይ ህይወት ኣድሕን ጃኬት ዓቐን ኣዝዩ ዓቢ እንተኾይኑ ኣይሰርሕን እዩ።",
+    "3. ተለቃሒ ናይ ህይወት ጃኬት ኩሉ ሓላፍነት ኣጠቓቕማ ይወስድ።",
+    "4. ተለቃሒ ኣብ ምዕዳል ናይ ህይወት ኣድሕን ጃኬት ዝነጥፍ ዝኾነ ይኹን ወገን ተሓታቲ ኣይከውንን።",
+    "5. ቅድሚ ምጥቃምካ ናይ ህይወት ኣድሕን ጃኬት መርምሮ።",
+    "6. ድሕሪ ምጥቃምካ ናይ ህይወት ኣድሕን ጃኬት ምምላስ።"
   ],
   "Thai": [
     "1. เสื้อชูชีพมีไว้สำหรับทุกคน",
@@ -846,6 +1011,14 @@
     "4. Ni fydd y benthyciwr yn atebol i unrhyw barti sy'n ymwneud â dosbarthu siacedi achub.",
     "5. Archwiliwch siaced achub cyn ei defnyddio.",
     "6. Dychwelyd siacedi achub ar ôl eu defnyddio."
+  ],
+  "Western Frisian":[
+    "1. Reddingsvesten binne foar elkenien beskikber.",
+    "2. Alders binne ferantwurdlik foar de grutte fan it libbensvest fan har bern. Rêdingsvest sil net wurkje as de maat te grut is.",
+    "3. Life jack liener nimt alle ferantwurdlikens fan gebrûk.",
+    "4. Borrower sil gjin partij oanspraaklik hâlde dy't belutsen is by de distribúsje fan reddingsvesten.",
+    "5. Ynspektearje rêdingsvest foar gebrûk.",
+    "6. Reddingsvesten werom nei gebrûk."
   ],
   "Xhosa": [
     "1. Iibhatyi zobomi ziyafumaneka kumntu wonke.",
