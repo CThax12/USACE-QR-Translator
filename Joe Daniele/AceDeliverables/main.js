@@ -13,7 +13,7 @@ var langauges;
     .then(() => { 
 
       languages = Object.keys(translations);
-      addCountry();
+      addLanguage();
 
   }
     
@@ -21,7 +21,7 @@ var langauges;
   
 
 
-function addCountry(selectedLanguage) {
+function addLanguage(selectedLanguage) {
     options.innerHTML = "";
     languages.forEach(language => {
         let isSelected = language == selectedLanguage ? "selected" : "";
@@ -35,7 +35,7 @@ function updateName(selectedLi) {
     
 
       searchInp.value = "";
-   addCountry(selectedLi.innerText);
+   addLanguage(selectedLi.innerText);
     wrapper.classList.remove("active");
     selectBtn.firstElementChild.innerText = selectedLi.innerText;
     var id = selectBtn.firstElementChild.innerText;
